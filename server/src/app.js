@@ -1,4 +1,5 @@
 const path = require('path');
+const https = require('https');
 const express = require('express');
 const helmet = require('helmet');
 const cors = require('cors');
@@ -30,7 +31,10 @@ app.use(
 );
 app.use(cors({ origin: clientOrigins.length ? clientOrigins : false }));
 app.use(express.json({ limit: '100kb' }));
+
+// product photos stored in MongoDB (outside /api so they never hit the API rate limit)
 app.use('/img', require('./routes/images'));
+
 app.use('/api', apiLimiter, routes);
 
 // Static sites: customer site at "/", admin dashboard at "/admin"
@@ -51,9 +55,27 @@ app.use(express.static(client, { maxAge: isProd ? '1h' : 0 }));
 app.use(notFound);
 app.use(errorHandler);
 
+// Pings our own public URL every 30s so Render's free tier doesn't put the app to sleep.
+// RENDER_EXTERNAL_URL is set automatically by Render; in local dev nothing runs.
+const SELF_URL = process.env.RENDER_EXTERNAL_URL ? `${process.env.RENDER_EXTERNAL_URL}/api/health` : null;
+
+function startSelfPing() {
+  if (!isProd || !SELF_URL) return;
+  setInterval(() => {
+    https
+      .get(SELF_URL, { timeout: 10000 }, (res) => res.resume()) // discard body, free the socket
+      .on('timeout', function () { this.destroy(new Error('timeout')); })
+      .on('error', (err) => console.warn('[self-ping] failed:', err.message));
+  }, 30 * 1000).unref();
+  console.log(`🔁 Self-ping enabled → ${SELF_URL} (every 30s)`);
+}
+
 async function start() {
   await connectDB();
-  app.listen(port, () => console.log(`Server running on http://localhost:${port}`));
+  app.listen(port, () => {
+    console.log(`Server running on http://localhost:${port}`);
+    startSelfPing();
+  });
 }
 
 if (require.main === module) {
