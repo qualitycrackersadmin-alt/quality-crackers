@@ -1,0 +1,92 @@
+Source rows: 297   Products after merging repeats: 265   Categories: 32
+Pictures written: 222 (max 480px, WebP)
+
+## Please confirm with the owner: packs priced for more than one unit (3) - stored exactly as written in the sheet
+  - Lunik Rocket 2 Ft Size: price 145 is per '2 Box'
+  - Penta Sky Color Jumbo Rocket: price 270 is per '4 Box'
+  - Royal Bada 5 Face Peacock: price 770 is per '2 Box'
+
+## Same product, different unit text in two places (5)
+  - Rock Star Guitar Whistle with Crackling (2 Pcs): Packet vs Box -> using Packet
+  - 36 Hand Shots (Big Bat Style with Plastic handle): Box vs Piece -> using Box
+  - Pom Pom Water Proof Cracker: Box vs Packet -> using Box
+  - Color Laddu's with Money (2 Laddu's / Set): Set vs Box -> using Set
+  - Whistling Rocket (10 Pieces / Box): 3 Box vs Box -> using Box
+
+## Same product, different price (kept separate) (0)
+  none
+
+## Prices that are not whole rupees (1)
+  - 3 1/2 Aerial Pipe Shots (6 Types, 1 Pc a box): 404.55
+
+## Products with no picture in the sheet (35) - shown with a letter placeholder
+  - Pinjoorie Color Koti (10 Pieces)
+  - Jumbo Koti Flower Pots
+  - Vanitha's Rapid Color Flower Pots (10 Pieces)
+  - Crow High Dancing Pots
+  - Tank's Spin Spinner (Speed wheel 6 pcs / Set)
+  - Pop It Long Time Crackling 3 Bullets Magic
+  - Panda Toy with 2 Type Color Changer
+  - 28 Chorsa
+  - 100 Wala
+  - 1000 Wala
+  - 2000 Wala
+  - 5000 Wala
+  - 10000 Wala
+  - 50,000 Wala
+  - 1 Lakh Wala
+  - 28 Deluxe Big Chorsa / Jagajal Deluxe (30 sets / Big box)
+  - Laser Bomb Big size Red Color - High Power
+  - 49 Twister Shooters
+  - 3.5 inch 5 Step Aerial Set Out 1 : 5 Ball Shots
+  - 16 Shots Ben 10 1 1/2 x 16 Multi with Spl Color Set out
+  - 16 Shots Avengers 1 1/2 x 16 Blue Spl Set out
+  - Vanitha's City Vibes 3 X 12 Dual layer Big Mines
+  - Star Sparkler (5 Pieces / Box)
+  - TypeMerry Go Round - Rattinam Sparkler, (Reusable type)
+  - 10 cm 4 color Sparkler (5 Boxes / Bundle)
+  - Big Heart Type Sparkler (1 Pieces / Box)
+  - 12cm Green Sparklers (5 Boxes - Bundle)
+  - 12 cm Red Sparklers (5 Boxes - Bundle)
+  - 15 cm Electric Sparklers (2 Boxes / Bundle)
+  - 15cm Crackling Sparklers (2 Boxes / Bundle)
+  - 15cm Green Sparklers (2 Boxes / Bundle)
+  - 15cm Red Sparklers (2 Boxes / Bundle)
+  - 30cm Electric Sparklers (2 Boxes / Bundle)
+  - 30cm Crackling Sparklers (2 Boxes / Bundle)
+  - 75 cm Electric Sparklers - 5 Pcs
+
+## Repeated products merged into one (listed under every category they appeared in) (30)
+  - Whistling Siren / Cuckoo Fountain (5 Pieces)  (2 rows -> 2 categories)
+  - Mega Whistle Siren (2 Pipes)  (2 rows -> 2 categories)
+  - Crow High Dancing Pots  (2 rows -> 2 categories)
+  - Harry Potter Cap Style Pots (3 Pieces)  (2 rows -> 2 categories)
+  - Lotus wheel Value Pack by Ayyan's (5 Pieces / Box)  (2 rows -> 2 categories)
+  - Ayyan's Sky Divers Night Parachute  (2 rows -> 2 categories)
+  - Kung Fu Panda Big Toy Multi Color Show  (2 rows -> 2 categories)
+  - Alibaba Lamp Color Smoke (5 Pieces)  (2 rows -> 2 categories)
+  - Hello Kitty Car Crackling Drive (3 Pcs /set)  (2 rows -> 2 categories)
+  - Micky Stick (5 Pieces / Set)  (2 rows -> 2 categories)
+  - Bridal Squad High Power Suzz Crackling (3 Pcs)  (2 rows -> 2 categories)
+  - The Thor Big Hammer (2 Pieces)  (2 rows -> 2 categories)
+  - Vanitha's Caterpillar Dazzling Green (2 Pieces)  (2 rows -> 2 categories)
+  - Vanitha's Gods and Kings Dazzling Gold (2 Pieces)  (2 rows -> 2 categories)
+  - Rock Star Guitar Whistle with Crackling (2 Pcs)  (2 rows -> 2 categories)
+  - Vanitha's Do - Do Christmas Tree Fountain  (2 rows -> 2 categories)
+  - Pom Pom Water Proof Cracker  (2 rows -> 2 categories)
+  - 36 Hand Shots (Big Bat Style with Plastic handle)  (2 rows -> 2 categories)
+  - Day Parachute (2 in 1 - Day effect)  (2 rows -> 2 categories)
+  - ColorFul Hen and Egg (2 Chicken Toy / Set)  (2 rows -> 2 categories)
+  - Color Laddu's with Money (2 Laddu's / Set)  (3 rows -> 3 categories)
+  - Kulfi Kingdom (3 Kulfi Sticks)  (2 rows -> 2 categories)
+  - Dolphin Show (2 Sets / Box)  (2 rows -> 2 categories)
+  - Color Strings 2 FT (Red & Green)  (2 rows -> 2 categories)
+  - Whistling Siren Long Candle - Damo  (3 rows -> 3 categories)
+  - Color Smoke (3 Pieces / Set)  (2 rows -> 2 categories)
+  - Whistling Rocket (10 Pieces / Box)  (2 rows -> 2 categories)
+  - Rainy Shiny (Fountain with Sky Shot)  (2 rows -> 2 categories)
+  - Multi Color Smoke Sky Shots (10 Rounds)  (2 rows -> 2 categories)
+  - Ayyan's 25 Whistling Shots  (2 rows -> 2 categories)
+
+## Warnings (0)
+  none

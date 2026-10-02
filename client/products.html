@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#1b0b3a">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Hind:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Shop Crackers – Price List</title>
+</head>
+
+<body data-page="products">
+    <div id="site-header"></div>
+    <main class="wrap sec">
+        <div class="crumbs"><a href="/">Home</a> / <span id="crumb">All crackers</span></div>
+        <div class="shop">
+            <aside id="side" class="side" aria-label="Categories"></aside>
+            <section>
+                <div class="tools">
+                    <h1 id="title" class="h1">All crackers</h1><select id="sort" aria-label="Sort">
+                        <option value="">Default order</option>
+                        <option value="asc">Price: low to high</option>
+                        <option value="desc">Price: high to low</option>
+                    </select>
+                </div>
+                <p id="count" class="muted"></p>
+                <div id="grid" class="pgrid"></div>
+                <div class="more"><button id="more" class="btn btn-ink" hidden>Show more</button></div>
+            </section>
+        </div>
+    </main>
+    <div id="bar" class="bar" hidden><span id="bar-text"></span><a class="btn btn-gold" href="/cart.html">View cart</a>
+    </div>
+    <div id="site-footer"></div>
+    <script src="/js/common.js"></script>
+    <script src="/js/products.js"></script>
+</body>
+
+</html>

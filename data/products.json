@@ -1,0 +1,3214 @@
+[
+  {
+    "name": "2.75\" Kuruvi / Angry Bird Crackers (Economy)",
+    "slug": "2-75-kuruvi-angry-bird-crackers-economy",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 10.0,
+    "unit": "Packet",
+    "image": "/assets/products/2-75-kuruvi-angry-bird-crackers-economy.webp",
+    "isGiftBox": false,
+    "sortOrder": 1
+  },
+  {
+    "name": "2.75\" Kuruvi / Angry Bird Crackers (Kisan Brand)",
+    "slug": "2-75-kuruvi-angry-bird-crackers-kisan-brand",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 15.0,
+    "unit": "Packet",
+    "image": "/assets/products/2-75-kuruvi-angry-bird-crackers-kisan-brand.webp",
+    "isGiftBox": false,
+    "sortOrder": 2
+  },
+  {
+    "name": "3.5\" Lakshmi / Bird Crackers",
+    "slug": "3-5-lakshmi-bird-crackers",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 20.0,
+    "unit": "Packet",
+    "image": "/assets/products/3-5-lakshmi-bird-crackers.webp",
+    "isGiftBox": false,
+    "sortOrder": 3
+  },
+  {
+    "name": "4\" Lakshmi / Hit Man Crackers (Premium Machine Fuse)",
+    "slug": "4-lakshmi-hit-man-crackers-premium-machine-fuse",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 35.0,
+    "unit": "Packet",
+    "image": "/assets/products/4-lakshmi-hit-man-crackers-premium-machine-fuse.webp",
+    "isGiftBox": false,
+    "sortOrder": 4
+  },
+  {
+    "name": "5\" Lakshmi Super Deluxe Cracker (Machine Fuse)",
+    "slug": "5-lakshmi-super-deluxe-cracker-machine-fuse",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 80.0,
+    "unit": "Packet",
+    "image": "/assets/products/5-lakshmi-super-deluxe-cracker-machine-fuse.webp",
+    "isGiftBox": false,
+    "sortOrder": 5
+  },
+  {
+    "name": "6\" Jallikatu super Deluxe",
+    "slug": "6-jallikatu-super-deluxe",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 90.0,
+    "unit": "Packet",
+    "image": "/assets/products/6-jallikatu-super-deluxe.webp",
+    "isGiftBox": false,
+    "sortOrder": 6
+  },
+  {
+    "name": "2\" Sound Crackers",
+    "slug": "2-sound-crackers",
+    "categories": [
+      "lakshmi-one-sound-crackers"
+    ],
+    "price": 50.0,
+    "unit": "Packet",
+    "image": "/assets/products/2-sound-crackers.webp",
+    "isGiftBox": false,
+    "sortOrder": 7
+  },
+  {
+    "name": "Flower Pots Big (10 Pieces)",
+    "slug": "flower-pots-big-10-pieces",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 95.0,
+    "unit": "Box",
+    "image": "/assets/products/flower-pots-big-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 8
+  },
+  {
+    "name": "Flower Pots Special (10 Pieces)",
+    "slug": "flower-pots-special-10-pieces",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 175.0,
+    "unit": "Box",
+    "image": "/assets/products/flower-pots-special-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 9
+  },
+  {
+    "name": "Flower Pot Special (10 Pieces - Economy)",
+    "slug": "flower-pot-special-10-pieces-economy",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 125.0,
+    "unit": "Box",
+    "image": "/assets/products/flower-pot-special-10-pieces-economy.webp",
+    "isGiftBox": false,
+    "sortOrder": 10
+  },
+  {
+    "name": "Color Koti Giant Peacock Pots (10 Pieces)",
+    "slug": "color-koti-giant-peacock-pots-10-pieces",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 260.0,
+    "unit": "Box",
+    "image": "/assets/products/color-koti-giant-peacock-pots-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 11
+  },
+  {
+    "name": "Pinjoorie Color Koti (10 Pieces)",
+    "slug": "pinjoorie-color-koti-10-pieces",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 405.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 12
+  },
+  {
+    "name": "Jumbo Koti Flower Pots",
+    "slug": "jumbo-koti-flower-pots",
+    "categories": [
+      "flower-pots"
+    ],
+    "price": 725.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 13
+  },
+  {
+    "name": "Damo Color Buds Flower Pots",
+    "slug": "damo-color-buds-flower-pots",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/damo-color-buds-flower-pots.webp",
+    "isGiftBox": false,
+    "sortOrder": 14
+  },
+  {
+    "name": "Fest O Crackling Cute Pots (2 Pieces)",
+    "slug": "fest-o-crackling-cute-pots-2-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 240.0,
+    "unit": "Box",
+    "image": "/assets/products/fest-o-crackling-cute-pots-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 15
+  },
+  {
+    "name": "Shin Chan Mini Tri Color Pots (3 Pcs / Set)",
+    "slug": "shin-chan-mini-tri-color-pots-3-pcs-set",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 185.0,
+    "unit": "Box",
+    "image": "/assets/products/shin-chan-mini-tri-color-pots-3-pcs-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 16
+  },
+  {
+    "name": "Tri Color Pots Big Size (5 Pieces)",
+    "slug": "tri-color-pots-big-size-5-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "/assets/products/tri-color-pots-big-size-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 17
+  },
+  {
+    "name": "Vanitha's Color Koti Flower Pots (10 Pieces)",
+    "slug": "vanithas-color-koti-flower-pots-10-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 805.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-color-koti-flower-pots-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 18
+  },
+  {
+    "name": "Vanitha's Rapid Color Flower Pots (10 Pieces)",
+    "slug": "vanithas-rapid-color-flower-pots-10-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 1045.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 19
+  },
+  {
+    "name": "Vanitha's Color Cone Pink Pastel Pots (10 Pieces)",
+    "slug": "vanithas-color-cone-pink-pastel-pots-10-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 870.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-color-cone-pink-pastel-pots-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 20
+  },
+  {
+    "name": "Vanitha's Fun Time Super Big Flower Pots (10 Pieces)",
+    "slug": "vanithas-fun-time-super-big-flower-pots-10-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 1380.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-fun-time-super-big-flower-pots-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 21
+  },
+  {
+    "name": "Ayyan's Dilse Silver with Tail Beautiful Flower Pots (3 Pcs)",
+    "slug": "ayyans-dilse-silver-with-tail-beautiful-flower-pots-3-pcs",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 725.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-dilse-silver-with-tail-beautiful-flower-pots-3-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 22
+  },
+  {
+    "name": "Whistling Siren / Cuckoo Fountain (5 Pieces)",
+    "slug": "whistling-siren-cuckoo-fountain-5-pieces",
+    "categories": [
+      "flower-pots-premium-series",
+      "whistling-novelties"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/whistling-siren-cuckoo-fountain-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 23
+  },
+  {
+    "name": "Mega Whistle Siren (2 Pipes)",
+    "slug": "mega-whistle-siren-2-pipes",
+    "categories": [
+      "flower-pots-premium-series",
+      "whistling-novelties"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/mega-whistle-siren-2-pipes.webp",
+    "isGiftBox": false,
+    "sortOrder": 24
+  },
+  {
+    "name": "Crow High Dancing Pots",
+    "slug": "crow-high-dancing-pots",
+    "categories": [
+      "flower-pots-premium-series",
+      "kids-fun-2026-models"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 25
+  },
+  {
+    "name": "Harry Potter Cap Style Pots (3 Pieces)",
+    "slug": "harry-potter-cap-style-pots-3-pieces",
+    "categories": [
+      "flower-pots-premium-series",
+      "kids-fun-2026-models"
+    ],
+    "price": 400.0,
+    "unit": "Box",
+    "image": "/assets/products/harry-potter-cap-style-pots-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 26
+  },
+  {
+    "name": "Flower Bomb / Ganga Jamuna (5 Pieces)",
+    "slug": "flower-bomb-ganga-jamuna-5-pieces",
+    "categories": [
+      "flower-pots-premium-series"
+    ],
+    "price": 130.0,
+    "unit": "Box",
+    "image": "/assets/products/flower-bomb-ganga-jamuna-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 27
+  },
+  {
+    "name": "Zamin Chakkar Big (10 Pieces)",
+    "slug": "zamin-chakkar-big-10-pieces",
+    "categories": [
+      "zamin-chakkar"
+    ],
+    "price": 45.0,
+    "unit": "Box",
+    "image": "/assets/products/zamin-chakkar-big-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 28
+  },
+  {
+    "name": "Zamin Chakkar Big (25 Pieces)",
+    "slug": "zamin-chakkar-big-25-pieces",
+    "categories": [
+      "zamin-chakkar"
+    ],
+    "price": 160.0,
+    "unit": "Box",
+    "image": "/assets/products/zamin-chakkar-big-25-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 29
+  },
+  {
+    "name": "Zamin Chakkar Special (10 Pcs)",
+    "slug": "zamin-chakkar-special-10-pcs",
+    "categories": [
+      "zamin-chakkar"
+    ],
+    "price": 135.0,
+    "unit": "Box",
+    "image": "/assets/products/zamin-chakkar-special-10-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 30
+  },
+  {
+    "name": "Zamin Chakkar Deluxe (10 Pcs)",
+    "slug": "zamin-chakkar-deluxe-10-pcs",
+    "categories": [
+      "zamin-chakkar"
+    ],
+    "price": 230.0,
+    "unit": "Box",
+    "image": "/assets/products/zamin-chakkar-deluxe-10-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 31
+  },
+  {
+    "name": "Krishna Chakkar Special",
+    "slug": "krishna-chakkar-special",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/krishna-chakkar-special.webp",
+    "isGiftBox": false,
+    "sortOrder": 32
+  },
+  {
+    "name": "Tank's Spin Spinner (Speed wheel 6 pcs / Set)",
+    "slug": "tanks-spin-spinner-speed-wheel-6-pcs-set",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 155.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 33
+  },
+  {
+    "name": "Lotus wheel Value Pack by Ayyan's (5 Pieces / Box)",
+    "slug": "lotus-wheel-value-pack-by-ayyans-5-pieces-box",
+    "categories": [
+      "zamin-chakkar-premium-series",
+      "kids-fancy-attractions"
+    ],
+    "price": 220.0,
+    "unit": "Box",
+    "image": "/assets/products/lotus-wheel-value-pack-by-ayyans-5-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 34
+  },
+  {
+    "name": "Ayyan's Whistling Chakkar 2 Step Big sound (5 Pieces)",
+    "slug": "ayyans-whistling-chakkar-2-step-big-sound-5-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-whistling-chakkar-2-step-big-sound-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 35
+  },
+  {
+    "name": "Ayyan's White Glittering Wheel 2 Step (5 Pieces)",
+    "slug": "ayyans-white-glittering-wheel-2-step-5-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-white-glittering-wheel-2-step-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 36
+  },
+  {
+    "name": "Vanitha's Spinner Mix (3 Color Type)",
+    "slug": "vanithas-spinner-mix-3-color-type",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 220.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-spinner-mix-3-color-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 37
+  },
+  {
+    "name": "Vanitha's Color Spinner Combo (3 Color Type)",
+    "slug": "vanithas-color-spinner-combo-3-color-type",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 260.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-color-spinner-combo-3-color-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 38
+  },
+  {
+    "name": "Vanitha's Green Color Spl Chakkar (6 Pieces)",
+    "slug": "vanithas-green-color-spl-chakkar-6-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 260.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-green-color-spl-chakkar-6-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 39
+  },
+  {
+    "name": "Vanitha's Super Deluxe Bada Chakkar (10 Pieces)",
+    "slug": "vanithas-super-deluxe-bada-chakkar-10-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-super-deluxe-bada-chakkar-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 40
+  },
+  {
+    "name": "Ayyan's 2 Step Rio Wheel Violet (5 Pieces)",
+    "slug": "ayyans-2-step-rio-wheel-violet-5-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-2-step-rio-wheel-violet-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 41
+  },
+  {
+    "name": "Ayyan's 2 Step Tinto Wheel Red, Green (5 Pieces)",
+    "slug": "ayyans-2-step-tinto-wheel-red-green-5-pieces",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-2-step-tinto-wheel-red-green-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 42
+  },
+  {
+    "name": "Oreo Sweet Chakkar (6 Pieces / Set)",
+    "slug": "oreo-sweet-chakkar-6-pieces-set",
+    "categories": [
+      "zamin-chakkar-premium-series"
+    ],
+    "price": 380.0,
+    "unit": "Box",
+    "image": "/assets/products/oreo-sweet-chakkar-6-pieces-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 43
+  },
+  {
+    "name": "Crystal the Flying Squad (3 Pieces)",
+    "slug": "crystal-the-flying-squad-3-pieces",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 1160.0,
+    "unit": "Box",
+    "image": "/assets/products/crystal-the-flying-squad-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 44
+  },
+  {
+    "name": "Pop It Long Time Crackling 3 Bullets Magic",
+    "slug": "pop-it-long-time-crackling-3-bullets-magic",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 235.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 45
+  },
+  {
+    "name": "Ayyan's Sky Divers Night Parachute",
+    "slug": "ayyans-sky-divers-night-parachute",
+    "categories": [
+      "exclusive-and-new-launches",
+      "ariel-pipe-shots"
+    ],
+    "price": 320.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-sky-divers-night-parachute.webp",
+    "isGiftBox": false,
+    "sortOrder": 46
+  },
+  {
+    "name": "Kung Fu Panda Big Toy Multi Color Show",
+    "slug": "kung-fu-panda-big-toy-multi-color-show",
+    "categories": [
+      "exclusive-and-new-launches",
+      "kids-fun-2026-models"
+    ],
+    "price": 1115.0,
+    "unit": "Box",
+    "image": "/assets/products/kung-fu-panda-big-toy-multi-color-show.webp",
+    "isGiftBox": false,
+    "sortOrder": 47
+  },
+  {
+    "name": "Odd Bods Multi Color Fountain Set",
+    "slug": "odd-bods-multi-color-fountain-set",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 280.0,
+    "unit": "Box",
+    "image": "/assets/products/odd-bods-multi-color-fountain-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 48
+  },
+  {
+    "name": "Alibaba Lamp Color Smoke (5 Pieces)",
+    "slug": "alibaba-lamp-color-smoke-5-pieces",
+    "categories": [
+      "exclusive-and-new-launches",
+      "paper-and-day-smoke-series"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/alibaba-lamp-color-smoke-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 49
+  },
+  {
+    "name": "Violet Matrix (Violet dance Fountain + Dual Sky Shots)",
+    "slug": "violet-matrix-violet-dance-fountain-dual-sky-shots",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/violet-matrix-violet-dance-fountain-dual-sky-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 50
+  },
+  {
+    "name": "Hello Kitty Car Crackling Drive (3 Pcs /set)",
+    "slug": "hello-kitty-car-crackling-drive-3-pcs-set",
+    "categories": [
+      "exclusive-and-new-launches",
+      "showers-and-kids-novelties"
+    ],
+    "price": 420.0,
+    "unit": "Box",
+    "image": "/assets/products/hello-kitty-car-crackling-drive-3-pcs-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 51
+  },
+  {
+    "name": "Milky Bar Big Car Type Crackling Toy (2 Cars / Set)",
+    "slug": "milky-bar-big-car-type-crackling-toy-2-cars-set",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/hello-kitty-car-crackling-drive-3-pcs-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 52
+  },
+  {
+    "name": "Micky Stick (5 Pieces / Set)",
+    "slug": "micky-stick-5-pieces-set",
+    "categories": [
+      "exclusive-and-new-launches",
+      "hand-held-novelties"
+    ],
+    "price": 505.0,
+    "unit": "Box",
+    "image": "/assets/products/micky-stick-5-pieces-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 53
+  },
+  {
+    "name": "Indian Fantastic Tree (Tri Color Changing Flag)",
+    "slug": "indian-fantastic-tree-tri-color-changing-flag",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 560.0,
+    "unit": "Box",
+    "image": "/assets/products/indian-fantastic-tree-tri-color-changing-flag.webp",
+    "isGiftBox": false,
+    "sortOrder": 54
+  },
+  {
+    "name": "Ice Age Large White Crackling Fountain",
+    "slug": "ice-age-large-white-crackling-fountain",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 420.0,
+    "unit": "Box",
+    "image": "/assets/products/ice-age-large-white-crackling-fountain.webp",
+    "isGiftBox": false,
+    "sortOrder": 55
+  },
+  {
+    "name": "Volcano Large Crackling Fountain",
+    "slug": "volcano-large-crackling-fountain",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 420.0,
+    "unit": "Box",
+    "image": "/assets/products/volcano-large-crackling-fountain.webp",
+    "isGiftBox": false,
+    "sortOrder": 56
+  },
+  {
+    "name": "Soora Samharam Vel with Sooran Toy",
+    "slug": "soora-samharam-vel-with-sooran-toy",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/soora-samharam-vel-with-sooran-toy.webp",
+    "isGiftBox": false,
+    "sortOrder": 57
+  },
+  {
+    "name": "Dumbo Elepant with 2 Type Color Changer",
+    "slug": "dumbo-elepant-with-2-type-color-changer",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "/assets/products/dumbo-elepant-with-2-type-color-changer.webp",
+    "isGiftBox": false,
+    "sortOrder": 58
+  },
+  {
+    "name": "Panda Toy with 2 Type Color Changer",
+    "slug": "panda-toy-with-2-type-color-changer",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 59
+  },
+  {
+    "name": "Bridal Squad High Power Suzz Crackling (3 Pcs)",
+    "slug": "bridal-squad-high-power-suzz-crackling-3-pcs",
+    "categories": [
+      "exclusive-and-new-launches",
+      "showers-and-kids-novelties"
+    ],
+    "price": 515.0,
+    "unit": "Box",
+    "image": "/assets/products/bridal-squad-high-power-suzz-crackling-3-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 60
+  },
+  {
+    "name": "The Thor Big Hammer (2 Pieces)",
+    "slug": "the-thor-big-hammer-2-pieces",
+    "categories": [
+      "exclusive-and-new-launches",
+      "hand-held-novelties"
+    ],
+    "price": 505.0,
+    "unit": "Box",
+    "image": "/assets/products/the-thor-big-hammer-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 61
+  },
+  {
+    "name": "Vanitha's Caterpillar Dazzling Green (2 Pieces)",
+    "slug": "vanithas-caterpillar-dazzling-green-2-pieces",
+    "categories": [
+      "exclusive-and-new-launches",
+      "showers-and-kids-novelties"
+    ],
+    "price": 415.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-caterpillar-dazzling-green-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 62
+  },
+  {
+    "name": "Vanitha's Gods and Kings Dazzling Gold (2 Pieces)",
+    "slug": "vanithas-gods-and-kings-dazzling-gold-2-pieces",
+    "categories": [
+      "exclusive-and-new-launches",
+      "showers-and-kids-novelties"
+    ],
+    "price": 415.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-gods-and-kings-dazzling-gold-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 63
+  },
+  {
+    "name": "Vanitha's Bo Bo Stick - 2026 Plastic Set (3 Pieces)",
+    "slug": "vanithas-bo-bo-stick-2026-plastic-set-3-pieces",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 920.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-bo-bo-stick-2026-plastic-set-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 64
+  },
+  {
+    "name": "Vanitha's Glo Stick Plastic Type (3 Pieces)",
+    "slug": "vanithas-glo-stick-plastic-type-3-pieces",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 800.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-glo-stick-plastic-type-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 65
+  },
+  {
+    "name": "The Lighting Lotus - 2026 Launch",
+    "slug": "the-lighting-lotus-2026-launch",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 1450.0,
+    "unit": "Box",
+    "image": "/assets/products/the-lighting-lotus-2026-launch.webp",
+    "isGiftBox": false,
+    "sortOrder": 66
+  },
+  {
+    "name": "Ayyan's Happy Elephant (3 Step with Dancing Violet)",
+    "slug": "ayyans-happy-elephant-3-step-with-dancing-violet",
+    "categories": [
+      "exclusive-and-new-launches"
+    ],
+    "price": 840.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-happy-elephant-3-step-with-dancing-violet.webp",
+    "isGiftBox": false,
+    "sortOrder": 67
+  },
+  {
+    "name": "Rock Star Guitar Whistle with Crackling (2 Pcs)",
+    "slug": "rock-star-guitar-whistle-with-crackling-2-pcs",
+    "categories": [
+      "exclusive-and-new-launches",
+      "kids-fun-2026-models"
+    ],
+    "price": 525.0,
+    "unit": "Packet",
+    "image": "/assets/products/rock-star-guitar-whistle-with-crackling-2-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 68
+  },
+  {
+    "name": "Vanitha's Do - Do Christmas Tree Fountain",
+    "slug": "vanithas-do-do-christmas-tree-fountain",
+    "categories": [
+      "exclusive-and-new-launches",
+      "showers-and-kids-novelties"
+    ],
+    "price": 285.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-do-do-christmas-tree-fountain.webp",
+    "isGiftBox": false,
+    "sortOrder": 69
+  },
+  {
+    "name": "Pom Pom Water Proof Cracker",
+    "slug": "pom-pom-water-proof-cracker",
+    "categories": [
+      "exclusive-and-new-launches",
+      "bijili-crackers"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "/assets/products/pom-pom-water-proof-cracker.webp",
+    "isGiftBox": false,
+    "sortOrder": 70
+  },
+  {
+    "name": "36 Hand Shots (Big Bat Style with Plastic handle)",
+    "slug": "36-hand-shots-big-bat-style-with-plastic-handle",
+    "categories": [
+      "exclusive-and-new-launches",
+      "hand-held-novelties"
+    ],
+    "price": 1740.0,
+    "unit": "Box",
+    "image": "/assets/products/36-hand-shots-big-bat-style-with-plastic-handle.webp",
+    "isGiftBox": false,
+    "sortOrder": 71
+  },
+  {
+    "name": "Day Parachute (2 in 1 - Day effect)",
+    "slug": "day-parachute-2-in-1-day-effect",
+    "categories": [
+      "exclusive-and-new-launches",
+      "paper-and-day-smoke-series"
+    ],
+    "price": 225.0,
+    "unit": "Box",
+    "image": "/assets/products/day-parachute-2-in-1-day-effect.webp",
+    "isGiftBox": false,
+    "sortOrder": 72
+  },
+  {
+    "name": "ColorFul Hen and Egg (2 Chicken Toy / Set)",
+    "slug": "colorful-hen-and-egg-2-chicken-toy-set",
+    "categories": [
+      "exclusive-and-new-launches",
+      "kids-fancy-attractions"
+    ],
+    "price": 255.0,
+    "unit": "Box",
+    "image": "/assets/products/colorful-hen-and-egg-2-chicken-toy-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 73
+  },
+  {
+    "name": "Color Laddu's with Money (2 Laddu's / Set)",
+    "slug": "color-laddus-with-money-2-laddus-set",
+    "categories": [
+      "exclusive-and-new-launches",
+      "super-kids-series-da-mo",
+      "paper-and-day-smoke-series"
+    ],
+    "price": 210.0,
+    "unit": "Set",
+    "image": "/assets/products/color-laddus-with-money-2-laddus-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 74
+  },
+  {
+    "name": "WaterMelon",
+    "slug": "watermelon",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 500.0,
+    "unit": "Box",
+    "image": "/assets/products/watermelon.webp",
+    "isGiftBox": false,
+    "sortOrder": 75
+  },
+  {
+    "name": "Kulfi Kingdom (3 Kulfi Sticks)",
+    "slug": "kulfi-kingdom-3-kulfi-sticks",
+    "categories": [
+      "kids-fun-2026-models",
+      "hand-held-novelties"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/kulfi-kingdom-3-kulfi-sticks.webp",
+    "isGiftBox": false,
+    "sortOrder": 76
+  },
+  {
+    "name": "Jungle Fantasy (3 Set Toys)",
+    "slug": "jungle-fantasy-3-set-toys",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 570.0,
+    "unit": "Box",
+    "image": "/assets/products/jungle-fantasy-3-set-toys.webp",
+    "isGiftBox": false,
+    "sortOrder": 77
+  },
+  {
+    "name": "Dolphin Show (2 Sets / Box)",
+    "slug": "dolphin-show-2-sets-box",
+    "categories": [
+      "kids-fun-2026-models",
+      "hand-held-novelties"
+    ],
+    "price": 315.0,
+    "unit": "Box",
+    "image": "/assets/products/dolphin-show-2-sets-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 78
+  },
+  {
+    "name": "Kidoo Butterfly Shaped Butterfly",
+    "slug": "kidoo-butterfly-shaped-butterfly",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 195.0,
+    "unit": "Box",
+    "image": "/assets/products/kidoo-butterfly-shaped-butterfly.webp",
+    "isGiftBox": false,
+    "sortOrder": 79
+  },
+  {
+    "name": "Toy Story (10 Pieces)",
+    "slug": "toy-story-10-pieces",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 495.0,
+    "unit": "Box",
+    "image": "/assets/products/toy-story-10-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 80
+  },
+  {
+    "name": "Cracklinng Pizza (6 Slices)",
+    "slug": "cracklinng-pizza-6-slices",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 960.0,
+    "unit": "Box",
+    "image": "/assets/products/cracklinng-pizza-6-slices.webp",
+    "isGiftBox": false,
+    "sortOrder": 81
+  },
+  {
+    "name": "Military Tank Muilti Layer Shower with Sky shots",
+    "slug": "military-tank-muilti-layer-shower-with-sky-shots",
+    "categories": [
+      "kids-fun-2026-models"
+    ],
+    "price": 1305.0,
+    "unit": "Box",
+    "image": "/assets/products/military-tank-muilti-layer-shower-with-sky-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 82
+  },
+  {
+    "name": "1 1/2 Twinkling Star",
+    "slug": "1-1-2-twinkling-star",
+    "categories": [
+      "twinkling-star"
+    ],
+    "price": 30.0,
+    "unit": "Box",
+    "image": "/assets/products/1-1-2-twinkling-star.webp",
+    "isGiftBox": false,
+    "sortOrder": 83
+  },
+  {
+    "name": "4 Deluxe Twinkling Star",
+    "slug": "4-deluxe-twinkling-star",
+    "categories": [
+      "twinkling-star"
+    ],
+    "price": 115.0,
+    "unit": "Box",
+    "image": "/assets/products/4-deluxe-twinkling-star.webp",
+    "isGiftBox": false,
+    "sortOrder": 84
+  },
+  {
+    "name": "Color Strings 2 FT (Red & Green)",
+    "slug": "color-strings-2-ft-red-and-green",
+    "categories": [
+      "twinkling-star",
+      "hand-held-novelties"
+    ],
+    "price": 165.0,
+    "unit": "Box",
+    "image": "/assets/products/color-strings-2-ft-red-and-green.webp",
+    "isGiftBox": false,
+    "sortOrder": 85
+  },
+  {
+    "name": "1000 K / Plato Sword Crackling Candle",
+    "slug": "1000-k-plato-sword-crackling-candle",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 345.0,
+    "unit": "Box",
+    "image": "/assets/products/1000-k-plato-sword-crackling-candle.webp",
+    "isGiftBox": false,
+    "sortOrder": 86
+  },
+  {
+    "name": "Baby LA / Sea / Red Laser Candle (3 Pcs)",
+    "slug": "baby-la-sea-red-laser-candle-3-pcs",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 190.0,
+    "unit": "Box",
+    "image": "/assets/products/baby-la-sea-red-laser-candle-3-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 87
+  },
+  {
+    "name": "Crackling Coconut",
+    "slug": "crackling-coconut",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 210.0,
+    "unit": "Box",
+    "image": "/assets/products/crackling-coconut.webp",
+    "isGiftBox": false,
+    "sortOrder": 88
+  },
+  {
+    "name": "Shooter Club Gun (Sparkle or Smoke Gun - 5 Pcs)",
+    "slug": "shooter-club-gun-sparkle-or-smoke-gun-5-pcs",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "/assets/products/shooter-club-gun-sparkle-or-smoke-gun-5-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 89
+  },
+  {
+    "name": "RK 47 Gun (Single AK 47 Type)",
+    "slug": "rk-47-gun-single-ak-47-type",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 345.0,
+    "unit": "Piece",
+    "image": "/assets/products/rk-47-gun-single-ak-47-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 90
+  },
+  {
+    "name": "Whistling Siren Long Candle - Damo",
+    "slug": "whistling-siren-long-candle-damo",
+    "categories": [
+      "hand-held-novelties",
+      "super-kids-series-da-mo",
+      "whistling-novelties"
+    ],
+    "price": 115.0,
+    "unit": "Box",
+    "image": "/assets/products/whistling-siren-long-candle-damo.webp",
+    "isGiftBox": false,
+    "sortOrder": 91
+  },
+  {
+    "name": "Cricket Bat",
+    "slug": "cricket-bat",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 305.0,
+    "unit": "Box",
+    "image": "/assets/products/cricket-bat.webp",
+    "isGiftBox": false,
+    "sortOrder": 92
+  },
+  {
+    "name": "Ananda's Big Sword 3ft Long type",
+    "slug": "anandas-big-sword-3ft-long-type",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 515.0,
+    "unit": "Box",
+    "image": "/assets/products/anandas-big-sword-3ft-long-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 93
+  },
+  {
+    "name": "Vanitha's Super Stick (5 Pieces)",
+    "slug": "vanithas-super-stick-5-pieces",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 725.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-super-stick-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 94
+  },
+  {
+    "name": "Vanitha's Bo Bo Stick - 2026 (3 Pieces)",
+    "slug": "vanithas-bo-bo-stick-2026-3-pieces",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 920.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-bo-bo-stick-2026-plastic-set-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 95
+  },
+  {
+    "name": "Vanitha's Glo Stick (3 Pieces)",
+    "slug": "vanithas-glo-stick-3-pieces",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 800.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-glo-stick-plastic-type-3-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 96
+  },
+  {
+    "name": "Pistol 5G (Big Gun - 2 Pcs)",
+    "slug": "pistol-5g-big-gun-2-pcs",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 385.0,
+    "unit": "Box",
+    "image": "/assets/products/pistol-5g-big-gun-2-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 97
+  },
+  {
+    "name": "Selfie Stick (5 Pieces / Set)",
+    "slug": "selfie-stick-5-pieces-set",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 190.0,
+    "unit": "Box",
+    "image": "/assets/products/selfie-stick-5-pieces-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 98
+  },
+  {
+    "name": "Color Smoke (3 Pieces / Set)",
+    "slug": "color-smoke-3-pieces-set",
+    "categories": [
+      "hand-held-novelties",
+      "paper-and-day-smoke-series"
+    ],
+    "price": 145.0,
+    "unit": "Box",
+    "image": "/assets/products/color-smoke-3-pieces-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 99
+  },
+  {
+    "name": "Chikoo and Buntee (3 Ft Long Dual Side Stick)",
+    "slug": "chikoo-and-buntee-3-ft-long-dual-side-stick",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "/assets/products/chikoo-and-buntee-3-ft-long-dual-side-stick.webp",
+    "isGiftBox": false,
+    "sortOrder": 100
+  },
+  {
+    "name": "Vanitha's Power Point High Crackling Sticks",
+    "slug": "vanithas-power-point-high-crackling-sticks",
+    "categories": [
+      "hand-held-novelties"
+    ],
+    "price": 785.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-power-point-high-crackling-sticks.webp",
+    "isGiftBox": false,
+    "sortOrder": 101
+  },
+  {
+    "name": "Bijili Economy (100 Pcs Pack)",
+    "slug": "bijili-economy-100-pcs-pack",
+    "categories": [
+      "bijili-crackers"
+    ],
+    "price": 45.0,
+    "unit": "Packet",
+    "image": "/assets/products/bijili-economy-100-pcs-pack.webp",
+    "isGiftBox": false,
+    "sortOrder": 102
+  },
+  {
+    "name": "Bijili Red Machine Fuse Stick Pack Spl Grade (100 Pcs)",
+    "slug": "bijili-red-machine-fuse-stick-pack-spl-grade-100-pcs",
+    "categories": [
+      "bijili-crackers"
+    ],
+    "price": 70.0,
+    "unit": "Packet",
+    "image": "/assets/products/bijili-red-machine-fuse-stick-pack-spl-grade-100-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 103
+  },
+  {
+    "name": "28 Chorsa",
+    "slug": "28-chorsa",
+    "categories": [
+      "chorsa-and-deluxe-crackers"
+    ],
+    "price": 25.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 104
+  },
+  {
+    "name": "56 Giant Big Size Double Layer Chorsa Pinnal",
+    "slug": "56-giant-big-size-double-layer-chorsa-pinnal",
+    "categories": [
+      "chorsa-and-deluxe-crackers"
+    ],
+    "price": 65.0,
+    "unit": "Box",
+    "image": "/assets/products/56-giant-big-size-double-layer-chorsa-pinnal.webp",
+    "isGiftBox": false,
+    "sortOrder": 105
+  },
+  {
+    "name": "2 3/4 X 24 Deluxe",
+    "slug": "2-3-4-x-24-deluxe",
+    "categories": [
+      "chorsa-and-deluxe-crackers"
+    ],
+    "price": 65.0,
+    "unit": "Box",
+    "image": "/assets/products/2-3-4-x-24-deluxe.webp",
+    "isGiftBox": false,
+    "sortOrder": 106
+  },
+  {
+    "name": "2 3/4 x 50 Deluxe",
+    "slug": "2-3-4-x-50-deluxe",
+    "categories": [
+      "chorsa-and-deluxe-crackers"
+    ],
+    "price": 130.0,
+    "unit": "Box",
+    "image": "/assets/products/2-3-4-x-50-deluxe.webp",
+    "isGiftBox": false,
+    "sortOrder": 107
+  },
+  {
+    "name": "2 3/4 x 100 Deluxe",
+    "slug": "2-3-4-x-100-deluxe",
+    "categories": [
+      "chorsa-and-deluxe-crackers"
+    ],
+    "price": 245.0,
+    "unit": "Box",
+    "image": "/assets/products/2-3-4-x-100-deluxe.webp",
+    "isGiftBox": false,
+    "sortOrder": 108
+  },
+  {
+    "name": "100 Wala",
+    "slug": "100-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 50.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 109
+  },
+  {
+    "name": "1000 Wala",
+    "slug": "1000-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 400.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 110
+  },
+  {
+    "name": "2000 Wala",
+    "slug": "2000-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 750.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 111
+  },
+  {
+    "name": "5000 Wala",
+    "slug": "5000-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 1600.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 112
+  },
+  {
+    "name": "10000 Wala",
+    "slug": "10000-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 3500.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 113
+  },
+  {
+    "name": "50,000 Wala",
+    "slug": "50-000-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 8100.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 114
+  },
+  {
+    "name": "1 Lakh Wala",
+    "slug": "1-lakh-wala",
+    "categories": [
+      "garland-full-count-and-high-power"
+    ],
+    "price": 16500.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 115
+  },
+  {
+    "name": "28 Deluxe Big Chorsa / Jagajal Deluxe (30 sets / Big box)",
+    "slug": "28-deluxe-big-chorsa-jagajal-deluxe-30-sets-big-box",
+    "categories": [
+      "digital-lar-garland"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 116
+  },
+  {
+    "name": "Digital 100",
+    "slug": "digital-100",
+    "categories": [
+      "digital-lar-garland"
+    ],
+    "price": 65.0,
+    "unit": "Box",
+    "image": "/assets/products/digital-100.webp",
+    "isGiftBox": false,
+    "sortOrder": 117
+  },
+  {
+    "name": "Digital 1000",
+    "slug": "digital-1000",
+    "categories": [
+      "digital-lar-garland"
+    ],
+    "price": 200.0,
+    "unit": "Box",
+    "image": "/assets/products/digital-1000.webp",
+    "isGiftBox": false,
+    "sortOrder": 118
+  },
+  {
+    "name": "Digital 5000",
+    "slug": "digital-5000",
+    "categories": [
+      "digital-lar-garland"
+    ],
+    "price": 690.0,
+    "unit": "Box",
+    "image": "/assets/products/digital-5000.webp",
+    "isGiftBox": false,
+    "sortOrder": 119
+  },
+  {
+    "name": "Digital 10000",
+    "slug": "digital-10000",
+    "categories": [
+      "digital-lar-garland"
+    ],
+    "price": 1305.0,
+    "unit": "Box",
+    "image": "/assets/products/digital-10000.webp",
+    "isGiftBox": false,
+    "sortOrder": 120
+  },
+  {
+    "name": "Bullet Bomb",
+    "slug": "bullet-bomb",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 35.0,
+    "unit": "Box",
+    "image": "/assets/products/bullet-bomb.webp",
+    "isGiftBox": false,
+    "sortOrder": 121
+  },
+  {
+    "name": "Hydro Master Bomb",
+    "slug": "hydro-master-bomb",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 105.0,
+    "unit": "Box",
+    "image": "/assets/products/hydro-master-bomb.webp",
+    "isGiftBox": false,
+    "sortOrder": 122
+  },
+  {
+    "name": "Gorilla Bomb Green",
+    "slug": "gorilla-bomb-green",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 180.0,
+    "unit": "Box",
+    "image": "/assets/products/gorilla-bomb-green.webp",
+    "isGiftBox": false,
+    "sortOrder": 123
+  },
+  {
+    "name": "Classic Lion Bomb",
+    "slug": "classic-lion-bomb",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 160.0,
+    "unit": "Box",
+    "image": "/assets/products/classic-lion-bomb.webp",
+    "isGiftBox": false,
+    "sortOrder": 124
+  },
+  {
+    "name": "Godzilla Bomb",
+    "slug": "godzilla-bomb",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 265.0,
+    "unit": "Box",
+    "image": "/assets/products/godzilla-bomb.webp",
+    "isGiftBox": false,
+    "sortOrder": 125
+  },
+  {
+    "name": "Laser Bomb Big size Red Color - High Power",
+    "slug": "laser-bomb-big-size-red-color-high-power",
+    "categories": [
+      "atom-bombs"
+    ],
+    "price": 410.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 126
+  },
+  {
+    "name": "Rocket Bomb",
+    "slug": "rocket-bomb",
+    "categories": [
+      "rockets"
+    ],
+    "price": 75.0,
+    "unit": "Box",
+    "image": "/assets/products/rocket-bomb.webp",
+    "isGiftBox": false,
+    "sortOrder": 127
+  },
+  {
+    "name": "Lunik Rocket 2 Ft Size",
+    "slug": "lunik-rocket-2-ft-size",
+    "categories": [
+      "rockets"
+    ],
+    "price": 145.0,
+    "unit": "2 Box",
+    "image": "/assets/products/lunik-rocket-2-ft-size.webp",
+    "isGiftBox": false,
+    "sortOrder": 128
+  },
+  {
+    "name": "Whistling Rocket (10 Pieces / Box)",
+    "slug": "whistling-rocket-10-pieces-box",
+    "categories": [
+      "rockets",
+      "whistling-novelties"
+    ],
+    "price": 225.0,
+    "unit": "Box",
+    "image": "/assets/products/whistling-rocket-10-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 129
+  },
+  {
+    "name": "Penta Sky Color Jumbo Rocket",
+    "slug": "penta-sky-color-jumbo-rocket",
+    "categories": [
+      "rockets"
+    ],
+    "price": 270.0,
+    "unit": "4 Box",
+    "image": "/assets/products/penta-sky-color-jumbo-rocket.webp",
+    "isGiftBox": false,
+    "sortOrder": 130
+  },
+  {
+    "name": "Whatta Blast Mega Crackling Rocket 3 FT",
+    "slug": "whatta-blast-mega-crackling-rocket-3-ft",
+    "categories": [
+      "hi-end-rockets-long-and-fancy-type"
+    ],
+    "price": 635.0,
+    "unit": "Box",
+    "image": "/assets/products/whatta-blast-mega-crackling-rocket-3-ft.webp",
+    "isGiftBox": false,
+    "sortOrder": 131
+  },
+  {
+    "name": "Sapphire Blue Color Mega Rocket 3 FT",
+    "slug": "sapphire-blue-color-mega-rocket-3-ft",
+    "categories": [
+      "hi-end-rockets-long-and-fancy-type"
+    ],
+    "price": 635.0,
+    "unit": "Box",
+    "image": "/assets/products/sapphire-blue-color-mega-rocket-3-ft.webp",
+    "isGiftBox": false,
+    "sortOrder": 132
+  },
+  {
+    "name": "Vanitha's Mark 1 Crackling Burst Rocket",
+    "slug": "vanithas-mark-1-crackling-burst-rocket",
+    "categories": [
+      "hi-end-rockets-long-and-fancy-type"
+    ],
+    "price": 925.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-mark-1-crackling-burst-rocket.webp",
+    "isGiftBox": false,
+    "sortOrder": 133
+  },
+  {
+    "name": "Ice Cream Cart (5 Pieces)",
+    "slug": "ice-cream-cart-5-pieces",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 135.0,
+    "unit": "Box",
+    "image": "/assets/products/ice-cream-cart-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 134
+  },
+  {
+    "name": "Ayyan's Little Dove",
+    "slug": "ayyans-little-dove",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 95.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-little-dove.webp",
+    "isGiftBox": false,
+    "sortOrder": 135
+  },
+  {
+    "name": "OddBods Multi Color Fountain (5 Pieces)",
+    "slug": "oddbods-multi-color-fountain-5-pieces",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 280.0,
+    "unit": "Box",
+    "image": "/assets/products/odd-bods-multi-color-fountain-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 136
+  },
+  {
+    "name": "Vanitha's Mini Pot Mix",
+    "slug": "vanithas-mini-pot-mix",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 480.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-mini-pot-mix.webp",
+    "isGiftBox": false,
+    "sortOrder": 137
+  },
+  {
+    "name": "X - Mas Fountain (3 Pieces / Box)",
+    "slug": "x-mas-fountain-3-pieces-box",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 190.0,
+    "unit": "Box",
+    "image": "/assets/products/x-mas-fountain-3-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 138
+  },
+  {
+    "name": "Violet Matrix (Violet Fountain + Dual Sky Shots)",
+    "slug": "violet-matrix-violet-fountain-dual-sky-shots",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/violet-matrix-violet-dance-fountain-dual-sky-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 139
+  },
+  {
+    "name": "Multi Color Tower Pots with Sky Shots (3 Color Type)",
+    "slug": "multi-color-tower-pots-with-sky-shots-3-color-type",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/multi-color-tower-pots-with-sky-shots-3-color-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 140
+  },
+  {
+    "name": "Twin Tone Color Changing Showers",
+    "slug": "twin-tone-color-changing-showers",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 260.0,
+    "unit": "Box",
+    "image": "/assets/products/twin-tone-color-changing-showers.webp",
+    "isGiftBox": false,
+    "sortOrder": 141
+  },
+  {
+    "name": "Rainy Shiny (Fountain with Sky Shot)",
+    "slug": "rainy-shiny-fountain-with-sky-shot",
+    "categories": [
+      "showers-and-kids-novelties",
+      "ariel-pipe-shots"
+    ],
+    "price": 335.0,
+    "unit": "Box",
+    "image": "/assets/products/rainy-shiny-fountain-with-sky-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 142
+  },
+  {
+    "name": "Crackling Mania Big Fountain",
+    "slug": "crackling-mania-big-fountain",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "/assets/products/crackling-mania-big-fountain.webp",
+    "isGiftBox": false,
+    "sortOrder": 143
+  },
+  {
+    "name": "Mobile Phone ( Golden Star + Smoke)",
+    "slug": "mobile-phone-golden-star-smoke",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 385.0,
+    "unit": "Box",
+    "image": "/assets/products/mobile-phone-golden-star-smoke.webp",
+    "isGiftBox": false,
+    "sortOrder": 144
+  },
+  {
+    "name": "Ayyan's Jadugar (4 Big Fountains / Set)",
+    "slug": "ayyans-jadugar-4-big-fountains-set",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 460.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-jadugar-4-big-fountains-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 145
+  },
+  {
+    "name": "Ayyan's Manoranjan (4 big Fountains / Set)",
+    "slug": "ayyans-manoranjan-4-big-fountains-set",
+    "categories": [
+      "showers-and-kids-novelties"
+    ],
+    "price": 460.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-manoranjan-4-big-fountains-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 146
+  },
+  {
+    "name": "Kit Kat Crackling Stars",
+    "slug": "kit-kat-crackling-stars",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 40.0,
+    "unit": "Box",
+    "image": "/assets/products/kit-kat-crackling-stars.webp",
+    "isGiftBox": false,
+    "sortOrder": 147
+  },
+  {
+    "name": "Kids Loving Pop Corn Pocket",
+    "slug": "kids-loving-pop-corn-pocket",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 90.0,
+    "unit": "Box",
+    "image": "/assets/products/kids-loving-pop-corn-pocket.webp",
+    "isGiftBox": false,
+    "sortOrder": 148
+  },
+  {
+    "name": "Ayyan's Lemon Tree (Dual Color Changer)",
+    "slug": "ayyans-lemon-tree-dual-color-changer",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 175.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-lemon-tree-dual-color-changer.webp",
+    "isGiftBox": false,
+    "sortOrder": 149
+  },
+  {
+    "name": "Redbull / Monster - 4.5 inch Tin",
+    "slug": "redbull-monster-4-5-inch-tin",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 135.0,
+    "unit": "Box",
+    "image": "/assets/products/redbull-monster-4-5-inch-tin.webp",
+    "isGiftBox": false,
+    "sortOrder": 150
+  },
+  {
+    "name": "Star n Flix 6 inch Tin",
+    "slug": "star-n-flix-6-inch-tin",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 220.0,
+    "unit": "Box",
+    "image": "/assets/products/star-n-flix-6-inch-tin.webp",
+    "isGiftBox": false,
+    "sortOrder": 151
+  },
+  {
+    "name": "Helicopter (5 Pieces /Set)",
+    "slug": "helicopter-5-pieces-set",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 105.0,
+    "unit": "Box",
+    "image": "/assets/products/helicopter-5-pieces-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 152
+  },
+  {
+    "name": "Photo Flash",
+    "slug": "photo-flash",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 105.0,
+    "unit": "Box",
+    "image": "/assets/products/photo-flash.webp",
+    "isGiftBox": false,
+    "sortOrder": 153
+  },
+  {
+    "name": "Bambara",
+    "slug": "bambara",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 195.0,
+    "unit": "Box",
+    "image": "/assets/products/bambara.webp",
+    "isGiftBox": false,
+    "sortOrder": 154
+  },
+  {
+    "name": "Butterfly (10 pcs / Box)",
+    "slug": "butterfly-10-pcs-box",
+    "categories": [
+      "kids-fancy-attractions"
+    ],
+    "price": 170.0,
+    "unit": "Box",
+    "image": "/assets/products/butterfly-10-pcs-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 155
+  },
+  {
+    "name": "Peacock Medium 3 Face (7 Types)",
+    "slug": "peacock-medium-3-face-7-types",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 245.0,
+    "unit": "Box",
+    "image": "/assets/products/peacock-medium-3-face-7-types.webp",
+    "isGiftBox": false,
+    "sortOrder": 156
+  },
+  {
+    "name": "Color Smoke Peacock Day use",
+    "slug": "color-smoke-peacock-day-use",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 275.0,
+    "unit": "Box",
+    "image": "/assets/products/color-smoke-peacock-day-use.webp",
+    "isGiftBox": false,
+    "sortOrder": 157
+  },
+  {
+    "name": "Ayyan's Golden 5 Face Peacock",
+    "slug": "ayyans-golden-5-face-peacock",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 450.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-golden-5-face-peacock.webp",
+    "isGiftBox": false,
+    "sortOrder": 158
+  },
+  {
+    "name": "Ayyan's Indigo 5 Face Peacock",
+    "slug": "ayyans-indigo-5-face-peacock",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 450.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-indigo-5-face-peacock.webp",
+    "isGiftBox": false,
+    "sortOrder": 159
+  },
+  {
+    "name": "5 Face Peacock Multi Color(Interim Size)",
+    "slug": "5-face-peacock-multi-color-interim-size",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 340.0,
+    "unit": "Box",
+    "image": "/assets/products/5-face-peacock-multi-color-interim-size.webp",
+    "isGiftBox": false,
+    "sortOrder": 160
+  },
+  {
+    "name": "5 Face Indian Flag Tri Color Peacock",
+    "slug": "5-face-indian-flag-tri-color-peacock",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 945.0,
+    "unit": "Box",
+    "image": "/assets/products/5-face-indian-flag-tri-color-peacock.webp",
+    "isGiftBox": false,
+    "sortOrder": 161
+  },
+  {
+    "name": "Vanitha's Halloween HD Glitter Peacock",
+    "slug": "vanithas-halloween-hd-glitter-peacock",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 755.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-halloween-hd-glitter-peacock.webp",
+    "isGiftBox": false,
+    "sortOrder": 162
+  },
+  {
+    "name": "Royal Bada 5 Face Peacock",
+    "slug": "royal-bada-5-face-peacock",
+    "categories": [
+      "peacock-vagaiyara-varieties-bay"
+    ],
+    "price": 770.0,
+    "unit": "2 Box",
+    "image": "/assets/products/royal-bada-5-face-peacock.webp",
+    "isGiftBox": false,
+    "sortOrder": 163
+  },
+  {
+    "name": "Crackers Samosa (Smoke with Color Papers Blast)",
+    "slug": "crackers-samosa-smoke-with-color-papers-blast",
+    "categories": [
+      "super-kids-series-da-mo"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "/assets/products/crackers-samosa-smoke-with-color-papers-blast.webp",
+    "isGiftBox": false,
+    "sortOrder": 164
+  },
+  {
+    "name": "Chocolate Chakkar Kids Special",
+    "slug": "chocolate-chakkar-kids-special",
+    "categories": [
+      "super-kids-series-da-mo"
+    ],
+    "price": 185.0,
+    "unit": "Box",
+    "image": "/assets/products/chocolate-chakkar-kids-special.webp",
+    "isGiftBox": false,
+    "sortOrder": 165
+  },
+  {
+    "name": "Pappu Shower",
+    "slug": "pappu-shower",
+    "categories": [
+      "super-kids-series-da-mo"
+    ],
+    "price": 185.0,
+    "unit": "Box",
+    "image": "/assets/products/pappu-shower.webp",
+    "isGiftBox": false,
+    "sortOrder": 166
+  },
+  {
+    "name": "Megaman Kids Toy",
+    "slug": "megaman-kids-toy",
+    "categories": [
+      "super-kids-series-da-mo"
+    ],
+    "price": 200.0,
+    "unit": "Box",
+    "image": "/assets/products/megaman-kids-toy.webp",
+    "isGiftBox": false,
+    "sortOrder": 167
+  },
+  {
+    "name": "Barbie Doll Pink Fountain (4 Toys Set)",
+    "slug": "barbie-doll-pink-fountain-4-toys-set",
+    "categories": [
+      "super-kids-series-da-mo"
+    ],
+    "price": 645.0,
+    "unit": "Box",
+    "image": "/assets/products/barbie-doll-pink-fountain-4-toys-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 168
+  },
+  {
+    "name": "Crackers Samosa (Smoke with Color Papers)",
+    "slug": "crackers-samosa-smoke-with-color-papers",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 370.0,
+    "unit": "Box",
+    "image": "/assets/products/crackers-samosa-smoke-with-color-papers.webp",
+    "isGiftBox": false,
+    "sortOrder": 169
+  },
+  {
+    "name": "Money Money Showers (Money effect from Sky)",
+    "slug": "money-money-showers-money-effect-from-sky",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 735.0,
+    "unit": "Box",
+    "image": "/assets/products/money-money-showers-money-effect-from-sky.webp",
+    "isGiftBox": false,
+    "sortOrder": 170
+  },
+  {
+    "name": "Rose Petal Showers (Rose effect from Sky)",
+    "slug": "rose-petal-showers-rose-effect-from-sky",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 735.0,
+    "unit": "Box",
+    "image": "/assets/products/rose-petal-showers-rose-effect-from-sky.webp",
+    "isGiftBox": false,
+    "sortOrder": 171
+  },
+  {
+    "name": "Multi Color Smoke Sky Shots (10 Rounds)",
+    "slug": "multi-color-smoke-sky-shots-10-rounds",
+    "categories": [
+      "paper-and-day-smoke-series",
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 565.0,
+    "unit": "Box",
+    "image": "/assets/products/multi-color-smoke-sky-shots-10-rounds.webp",
+    "isGiftBox": false,
+    "sortOrder": 172
+  },
+  {
+    "name": "Carnival Ribbon Shots (6 x 2.5 Inch Set Out)",
+    "slug": "carnival-ribbon-shots-6-x-2-5-inch-set-out",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 1275.0,
+    "unit": "Box",
+    "image": "/assets/products/carnival-ribbon-shots-6-x-2-5-inch-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 173
+  },
+  {
+    "name": "Color Laddu's (2 Laddu's / Set)",
+    "slug": "color-laddus-2-laddus-set",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 210.0,
+    "unit": "Box",
+    "image": "/assets/products/color-laddus-with-money-2-laddus-set.webp",
+    "isGiftBox": false,
+    "sortOrder": 174
+  },
+  {
+    "name": "Color Smoke Stick (5 Pcs)",
+    "slug": "color-smoke-stick-5-pcs",
+    "categories": [
+      "paper-and-day-smoke-series"
+    ],
+    "price": 40.0,
+    "unit": "Box",
+    "image": "/assets/products/color-smoke-stick-5-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 175
+  },
+  {
+    "name": "Ayyan's 25 Whistling Shots",
+    "slug": "ayyans-25-whistling-shots",
+    "categories": [
+      "whistling-novelties",
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 1235.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-25-whistling-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 176
+  },
+  {
+    "name": "16 Shooter Dragon Dance",
+    "slug": "16-shooter-dragon-dance",
+    "categories": [
+      "chitti-mini-bots-series"
+    ],
+    "price": 205.0,
+    "unit": "Box",
+    "image": "/assets/products/16-shooter-dragon-dance.webp",
+    "isGiftBox": false,
+    "sortOrder": 177
+  },
+  {
+    "name": "36 Lion King Shots (Multi Color Type)",
+    "slug": "36-lion-king-shots-multi-color-type",
+    "categories": [
+      "chitti-mini-bots-series"
+    ],
+    "price": 725.0,
+    "unit": "Box",
+    "image": "/assets/products/36-lion-king-shots-multi-color-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 178
+  },
+  {
+    "name": "49 Twister Shooters",
+    "slug": "49-twister-shooters",
+    "categories": [
+      "chitti-mini-bots-series"
+    ],
+    "price": 725.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 179
+  },
+  {
+    "name": "25 Shots Fantastia (Red and Green Mines)",
+    "slug": "25-shots-fantastia-red-and-green-mines",
+    "categories": [
+      "chitti-mini-bots-series"
+    ],
+    "price": 1000.0,
+    "unit": "Box",
+    "image": "/assets/products/25-shots-fantastia-red-and-green-mines.webp",
+    "isGiftBox": false,
+    "sortOrder": 180
+  },
+  {
+    "name": "7 Color Shots (5 Pieces)",
+    "slug": "7-color-shots-5-pieces",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 120.0,
+    "unit": "Box",
+    "image": "/assets/products/7-color-shots-5-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 181
+  },
+  {
+    "name": "1 1/4 Mini Fancy Sky Shot",
+    "slug": "1-1-4-mini-fancy-sky-shot",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 50.0,
+    "unit": "Box",
+    "image": "/assets/products/1-1-4-mini-fancy-sky-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 182
+  },
+  {
+    "name": "Penta 5 Color Mix Shots (5 Pieces / Box)",
+    "slug": "penta-5-color-mix-shots-5-pieces-box",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 190.0,
+    "unit": "Box",
+    "image": "/assets/products/penta-5-color-mix-shots-5-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 183
+  },
+  {
+    "name": "Star World Sky Shots (5 Pieces / Box)",
+    "slug": "star-world-sky-shots-5-pieces-box",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 250.0,
+    "unit": "Box",
+    "image": "/assets/products/star-world-sky-shots-5-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 184
+  },
+  {
+    "name": "3 Up Shots (3 Branches Crackling, 5 Pieces / Box)",
+    "slug": "3-up-shots-3-branches-crackling-5-pieces-box",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 250.0,
+    "unit": "Box",
+    "image": "/assets/products/3-up-shots-3-branches-crackling-5-pieces-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 185
+  },
+  {
+    "name": "Hitman 2 inch 3 Pieces a Box Pipe Shot",
+    "slug": "hitman-2-inch-3-pieces-a-box-pipe-shot",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 320.0,
+    "unit": "Box",
+    "image": "/assets/products/hitman-2-inch-3-pieces-a-box-pipe-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 186
+  },
+  {
+    "name": "2 1/2 Aerial Pipe Shots (4 Types, 1 Pc a box)",
+    "slug": "2-1-2-aerial-pipe-shots-4-types-1-pc-a-box",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 175.0,
+    "unit": "Box",
+    "image": "/assets/products/2-1-2-aerial-pipe-shots-4-types-1-pc-a-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 187
+  },
+  {
+    "name": "3 1/2 Aerial Pipe Shots (6 Types, 1 Pc a box)",
+    "slug": "3-1-2-aerial-pipe-shots-6-types-1-pc-a-box",
+    "categories": [
+      "ariel-pipe-shots"
+    ],
+    "price": 404.55,
+    "unit": "Box",
+    "image": "/assets/products/3-1-2-aerial-pipe-shots-6-types-1-pc-a-box.webp",
+    "isGiftBox": false,
+    "sortOrder": 188
+  },
+  {
+    "name": "Vanitha's Rising Effect Suit case Type (6 Different Pieces)",
+    "slug": "vanithas-rising-effect-suit-case-type-6-different-pieces",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1450.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-rising-effect-suit-case-type-6-different-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 189
+  },
+  {
+    "name": "3.5 inch 5 Step Aerial Set Out 1 : 5 Ball Shots",
+    "slug": "3-5-inch-5-step-aerial-set-out-1-5-ball-shots",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 540.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 190
+  },
+  {
+    "name": "4\" Special Rajkala Aerial out (5 Types)",
+    "slug": "4-special-rajkala-aerial-out-5-types",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/4-special-rajkala-aerial-out-5-types.webp",
+    "isGiftBox": false,
+    "sortOrder": 191
+  },
+  {
+    "name": "4\" Unique Special 7 Color Series Gnanavel",
+    "slug": "4-unique-special-7-color-series-gnanavel",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 580.0,
+    "unit": "Box",
+    "image": "/assets/products/4-unique-special-7-color-series-gnanavel.webp",
+    "isGiftBox": false,
+    "sortOrder": 192
+  },
+  {
+    "name": "4\" Double Ball high Shots (4 Types)",
+    "slug": "4-double-ball-high-shots-4-types",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 680.0,
+    "unit": "Box",
+    "image": "/assets/products/4-double-ball-high-shots-4-types.webp",
+    "isGiftBox": false,
+    "sortOrder": 193
+  },
+  {
+    "name": "4\" Nayagara Falls Gold and Silver Tip (2 Types)",
+    "slug": "4-nayagara-falls-gold-and-silver-tip-2-types",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 595.0,
+    "unit": "Box",
+    "image": "/assets/products/4-nayagara-falls-gold-and-silver-tip-2-types.webp",
+    "isGiftBox": false,
+    "sortOrder": 194
+  },
+  {
+    "name": "Ayyan's 4 1/2 Spl Electric Blue Sky Shot",
+    "slug": "ayyans-4-1-2-spl-electric-blue-sky-shot",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 800.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-4-1-2-spl-electric-blue-sky-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 195
+  },
+  {
+    "name": "Ayyan's 4 1/2 Spl Violet Dance Sky Shot",
+    "slug": "ayyans-4-1-2-spl-violet-dance-sky-shot",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 800.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-4-1-2-spl-violet-dance-sky-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 196
+  },
+  {
+    "name": "5\" Single Pipe Rajkala (5 Types)",
+    "slug": "5-single-pipe-rajkala-5-types",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 830.0,
+    "unit": "Box",
+    "image": "/assets/products/5-single-pipe-rajkala-5-types.webp",
+    "isGiftBox": false,
+    "sortOrder": 197
+  },
+  {
+    "name": "Vanitha's World War Crackling Wings 1 Piece",
+    "slug": "vanithas-world-war-crackling-wings-1-piece",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1150.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-world-war-crackling-wings-1-piece.webp",
+    "isGiftBox": false,
+    "sortOrder": 198
+  },
+  {
+    "name": "Vanitha's The Dark 3D Series (2 Pieces)",
+    "slug": "vanithas-the-dark-3d-series-2-pieces",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1740.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-the-dark-3d-series-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 199
+  },
+  {
+    "name": "Vanitha's Pink Out 3D Series (2 Pieces)",
+    "slug": "vanithas-pink-out-3d-series-2-pieces",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1740.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-pink-out-3d-series-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 200
+  },
+  {
+    "name": "Vanitha's Red Eye 3D Series (2 Pieces)",
+    "slug": "vanithas-red-eye-3d-series-2-pieces",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1740.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-red-eye-3d-series-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 201
+  },
+  {
+    "name": "Vanitha's i-World Crackling Edge (2 Pieces)",
+    "slug": "vanithas-i-world-crackling-edge-2-pieces",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 1740.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-i-world-crackling-edge-2-pieces.webp",
+    "isGiftBox": false,
+    "sortOrder": 202
+  },
+  {
+    "name": "Vanitha's Spl 6 inch Massive Orange Shot",
+    "slug": "vanithas-spl-6-inch-massive-orange-shot",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 2320.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-spl-6-inch-massive-orange-shot.webp",
+    "isGiftBox": false,
+    "sortOrder": 203
+  },
+  {
+    "name": "Vanitha's Spl 6 Inch The Great Purple Rain",
+    "slug": "vanithas-spl-6-inch-the-great-purple-rain",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 2395.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-spl-6-inch-the-great-purple-rain.webp",
+    "isGiftBox": false,
+    "sortOrder": 204
+  },
+  {
+    "name": "Vanitha's Spl 6 Inch The One and Only (Red & Green)",
+    "slug": "vanithas-spl-6-inch-the-one-and-only-red-and-green",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 2395.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-spl-6-inch-the-one-and-only-red-and-green.webp",
+    "isGiftBox": false,
+    "sortOrder": 205
+  },
+  {
+    "name": "Vanitha's Spl 6 Inch The SkyCopter with Golden Tip",
+    "slug": "vanithas-spl-6-inch-the-skycopter-with-golden-tip",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 2580.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-spl-6-inch-the-skycopter-with-golden-tip.webp",
+    "isGiftBox": false,
+    "sortOrder": 206
+  },
+  {
+    "name": "Vanitha' s Spl 6 Inch The Jungle Party Green Diamond",
+    "slug": "vanitha-s-spl-6-inch-the-jungle-party-green-diamond",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 2580.0,
+    "unit": "Box",
+    "image": "/assets/products/vanitha-s-spl-6-inch-the-jungle-party-green-diamond.webp",
+    "isGiftBox": false,
+    "sortOrder": 207
+  },
+  {
+    "name": "Vanitha's Great Sky Series - The Ocean Blue - 7 inch",
+    "slug": "vanithas-great-sky-series-the-ocean-blue-7-inch",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 3480.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-great-sky-series-the-ocean-blue-7-inch.webp",
+    "isGiftBox": false,
+    "sortOrder": 208
+  },
+  {
+    "name": "Vanitha's Great Sky Series - The Snake Eye- 7 inch",
+    "slug": "vanithas-great-sky-series-the-snake-eye-7-inch",
+    "categories": [
+      "super-premium-ariel-sky-shots"
+    ],
+    "price": 3480.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-great-sky-series-the-snake-eye-7-inch.webp",
+    "isGiftBox": false,
+    "sortOrder": 209
+  },
+  {
+    "name": "12 shots Crackling Stars",
+    "slug": "12-shots-crackling-stars",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 145.0,
+    "unit": "Box",
+    "image": "/assets/products/12-shots-crackling-stars.webp",
+    "isGiftBox": false,
+    "sortOrder": 210
+  },
+  {
+    "name": "20- 20 Shots with Dual Function",
+    "slug": "20-20-shots-with-dual-function",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 660.0,
+    "unit": "Box",
+    "image": "/assets/products/20-20-shots-with-dual-function.webp",
+    "isGiftBox": false,
+    "sortOrder": 211
+  },
+  {
+    "name": "30 Multi Color Shots Economy Range 5 Color Type",
+    "slug": "30-multi-color-shots-economy-range-5-color-type",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 525.0,
+    "unit": "Box",
+    "image": "/assets/products/30-multi-color-shots-economy-range-5-color-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 212
+  },
+  {
+    "name": "30 Multi Color Shots with Crackling",
+    "slug": "30-multi-color-shots-with-crackling",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 645.0,
+    "unit": "Box",
+    "image": "/assets/products/30-multi-color-shots-with-crackling.webp",
+    "isGiftBox": false,
+    "sortOrder": 213
+  },
+  {
+    "name": "60 Multi Color Shots with Crackling",
+    "slug": "60-multi-color-shots-with-crackling",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 1280.0,
+    "unit": "Box",
+    "image": "/assets/products/60-multi-color-shots-with-crackling.webp",
+    "isGiftBox": false,
+    "sortOrder": 214
+  },
+  {
+    "name": "120 Multi Color Shots with Crackling",
+    "slug": "120-multi-color-shots-with-crackling",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 2320.0,
+    "unit": "Box",
+    "image": "/assets/products/120-multi-color-shots-with-crackling.webp",
+    "isGiftBox": false,
+    "sortOrder": 215
+  },
+  {
+    "name": "240 Multi Color Shots with Crackling",
+    "slug": "240-multi-color-shots-with-crackling",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 4930.0,
+    "unit": "Box",
+    "image": "/assets/products/240-multi-color-shots-with-crackling.webp",
+    "isGiftBox": false,
+    "sortOrder": 216
+  },
+  {
+    "name": "Gnanavel's 60 Multi Color Shots Special Grade",
+    "slug": "gnanavels-60-multi-color-shots-special-grade",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 1885.0,
+    "unit": "Box",
+    "image": "/assets/products/gnanavels-60-multi-color-shots-special-grade.webp",
+    "isGiftBox": false,
+    "sortOrder": 217
+  },
+  {
+    "name": "Gnanavel's 120 Multi Color Shots Special Grade",
+    "slug": "gnanavels-120-multi-color-shots-special-grade",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 3100.0,
+    "unit": "Box",
+    "image": "/assets/products/gnanavels-120-multi-color-shots-special-grade.webp",
+    "isGiftBox": false,
+    "sortOrder": 218
+  },
+  {
+    "name": "Gnanavel's 252 Multi Color Shots Special Grade",
+    "slug": "gnanavels-252-multi-color-shots-special-grade",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 6350.0,
+    "unit": "Box",
+    "image": "/assets/products/gnanavels-252-multi-color-shots-special-grade.webp",
+    "isGiftBox": false,
+    "sortOrder": 219
+  },
+  {
+    "name": "Gnanavel's 500 Multi Color Shots",
+    "slug": "gnanavels-500-multi-color-shots",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 11400.0,
+    "unit": "Box",
+    "image": "/assets/products/gnanavels-500-multi-color-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 220
+  },
+  {
+    "name": "Ayyan's 1,000 Shots Multi Effect Great One",
+    "slug": "ayyans-1-000-shots-multi-effect-great-one",
+    "categories": [
+      "multicolor-sky-shots"
+    ],
+    "price": 25850.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-1-000-shots-multi-effect-great-one.webp",
+    "isGiftBox": false,
+    "sortOrder": 221
+  },
+  {
+    "name": "Rang Chakkar 10 White Chakkars in Sky",
+    "slug": "rang-chakkar-10-white-chakkars-in-sky",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 435.0,
+    "unit": "Box",
+    "image": "/assets/products/rang-chakkar-10-white-chakkars-in-sky.webp",
+    "isGiftBox": false,
+    "sortOrder": 222
+  },
+  {
+    "name": "Carnival Ribbon Shots (6 x 2.5 Inch Set)",
+    "slug": "carnival-ribbon-shots-6-x-2-5-inch-set",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 1275.0,
+    "unit": "Box",
+    "image": "/assets/products/carnival-ribbon-shots-6-x-2-5-inch-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 223
+  },
+  {
+    "name": "16 Shots Ben 10 1 1/2 x 16 Multi with Spl Color Set out",
+    "slug": "16-shots-ben-10-1-1-2-x-16-multi-with-spl-color-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 1785.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 224
+  },
+  {
+    "name": "16 Shots Avengers 1 1/2 x 16 Blue Spl Set out",
+    "slug": "16-shots-avengers-1-1-2-x-16-blue-spl-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 2100.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 225
+  },
+  {
+    "name": "Vanitha's Lazer Silver Strike 3 x 5 Big Mines",
+    "slug": "vanithas-lazer-silver-strike-3-x-5-big-mines",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 4060.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-lazer-silver-strike-3-x-5-big-mines.webp",
+    "isGiftBox": false,
+    "sortOrder": 226
+  },
+  {
+    "name": "Ayyan's Fashion Parade 4 x 6 / 24 Big Fan Set Out",
+    "slug": "ayyans-fashion-parade-4-x-6-24-big-fan-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 7975.0,
+    "unit": "Box",
+    "image": "/assets/products/ayyans-fashion-parade-4-x-6-24-big-fan-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 227
+  },
+  {
+    "name": "Vanitha's City Vibes 3 X 12 Dual layer Big Mines",
+    "slug": "vanithas-city-vibes-3-x-12-dual-layer-big-mines",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 8700.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 228
+  },
+  {
+    "name": "Vanitha's Sky High 3 x 21 Great V Shaped Multi Shots",
+    "slug": "vanithas-sky-high-3-x-21-great-v-shaped-multi-shots",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 11600.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-sky-high-3-x-21-great-v-shaped-multi-shots.webp",
+    "isGiftBox": false,
+    "sortOrder": 229
+  },
+  {
+    "name": "Vanitha's Only One (4 inch Mega) 12 Repeat Set out",
+    "slug": "vanithas-only-one-4-inch-mega-12-repeat-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 8990.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-only-one-4-inch-mega-12-repeat-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 230
+  },
+  {
+    "name": "Vanitha's V Force Multi (4 inch) 12 Repeat Set Out",
+    "slug": "vanithas-v-force-multi-4-inch-12-repeat-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 8990.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-v-force-multi-4-inch-12-repeat-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 231
+  },
+  {
+    "name": "Vanitha's More and More (4 Inch) 12 Repeat Edging Set out",
+    "slug": "vanithas-more-and-more-4-inch-12-repeat-edging-set-out",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 8990.0,
+    "unit": "Box",
+    "image": "/assets/products/vanithas-more-and-more-4-inch-12-repeat-edging-set-out.webp",
+    "isGiftBox": false,
+    "sortOrder": 232
+  },
+  {
+    "name": "10 x 10 IPL Fan cake with Color Shot Effects",
+    "slug": "10-x-10-ipl-fan-cake-with-color-shot-effects",
+    "categories": [
+      "hyper-mega-multi-color-shots-and-great-set-outs"
+    ],
+    "price": 4640.0,
+    "unit": "Box",
+    "image": "/assets/products/10-x-10-ipl-fan-cake-with-color-shot-effects.webp",
+    "isGiftBox": false,
+    "sortOrder": 233
+  },
+  {
+    "name": "Star Sparkler (5 Pieces / Box)",
+    "slug": "star-sparkler-5-pieces-box",
+    "categories": [
+      "special-type-sparklers"
+    ],
+    "price": 120.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 234
+  },
+  {
+    "name": "TypeMerry Go Round - Rattinam Sparkler, (Reusable type)",
+    "slug": "typemerry-go-round-rattinam-sparkler-reusable-type",
+    "categories": [
+      "special-type-sparklers"
+    ],
+    "price": 290.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 235
+  },
+  {
+    "name": "10 cm 4 color Sparkler (5 Boxes / Bundle)",
+    "slug": "10-cm-4-color-sparkler-5-boxes-bundle",
+    "categories": [
+      "special-type-sparklers"
+    ],
+    "price": 145.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 236
+  },
+  {
+    "name": "Big Heart Type Sparkler (1 Pieces / Box)",
+    "slug": "big-heart-type-sparkler-1-pieces-box",
+    "categories": [
+      "special-type-sparklers"
+    ],
+    "price": 70.0,
+    "unit": "Box",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 237
+  },
+  {
+    "name": "7 cm Electric Sparklers (10 Boxes - bundle)",
+    "slug": "7-cm-electric-sparklers-10-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 130.0,
+    "unit": "Bundle",
+    "image": "/assets/products/7-cm-electric-sparklers-10-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 238
+  },
+  {
+    "name": "7 cm Crackling Sparklers (10 Boxes - Bundle)",
+    "slug": "7-cm-crackling-sparklers-10-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 160.0,
+    "unit": "Bundle",
+    "image": "/assets/products/7-cm-crackling-sparklers-10-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 239
+  },
+  {
+    "name": "10 cm Electric Sparklers (5 Boxes - Bundle)",
+    "slug": "10-cm-electric-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 115.0,
+    "unit": "Bundle",
+    "image": "/assets/products/10-cm-electric-sparklers-5-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 240
+  },
+  {
+    "name": "10 cm Crackling Sparklers (5 Boxes - Bundle)",
+    "slug": "10-cm-crackling-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 125.0,
+    "unit": "Bundle",
+    "image": "/assets/products/10-cm-crackling-sparklers-5-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 241
+  },
+  {
+    "name": "12 cm Electric Sparklers (5 Boxes - Bundle)",
+    "slug": "12-cm-electric-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 160.0,
+    "unit": "Bundle",
+    "image": "/assets/products/12-cm-electric-sparklers-5-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 242
+  },
+  {
+    "name": "12cm Crackling Sparklers (5 Boxes - Bundle)",
+    "slug": "12cm-crackling-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 185.0,
+    "unit": "Bundle",
+    "image": "/assets/products/12cm-crackling-sparklers-5-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 243
+  },
+  {
+    "name": "12cm Green Sparklers (5 Boxes - Bundle)",
+    "slug": "12cm-green-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 200.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 244
+  },
+  {
+    "name": "12 cm Red Sparklers (5 Boxes - Bundle)",
+    "slug": "12-cm-red-sparklers-5-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 235.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 245
+  },
+  {
+    "name": "15 cm Electric Sparklers (2 Boxes / Bundle)",
+    "slug": "15-cm-electric-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 115.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 246
+  },
+  {
+    "name": "15cm Crackling Sparklers (2 Boxes / Bundle)",
+    "slug": "15cm-crackling-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 130.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 247
+  },
+  {
+    "name": "15cm Green Sparklers (2 Boxes / Bundle)",
+    "slug": "15cm-green-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 135.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 248
+  },
+  {
+    "name": "15cm Red Sparklers (2 Boxes / Bundle)",
+    "slug": "15cm-red-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 145.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 249
+  },
+  {
+    "name": "30cm Electric Sparklers (2 Boxes / Bundle)",
+    "slug": "30cm-electric-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 115.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 250
+  },
+  {
+    "name": "30cm Crackling Sparklers (2 Boxes / Bundle)",
+    "slug": "30cm-crackling-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 130.0,
+    "unit": "Bundle",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 251
+  },
+  {
+    "name": "30cm Green Sparklers (2 Boxes / Bundle)",
+    "slug": "30cm-green-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 135.0,
+    "unit": "Bundle",
+    "image": "/assets/products/30cm-green-sparklers-2-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 252
+  },
+  {
+    "name": "30cm Red Sparklers (2 Boxes / Bundle)",
+    "slug": "30cm-red-sparklers-2-boxes-bundle",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 145.0,
+    "unit": "Bundle",
+    "image": "/assets/products/30cm-red-sparklers-2-boxes-bundle.webp",
+    "isGiftBox": false,
+    "sortOrder": 253
+  },
+  {
+    "name": "55cm Electric Sparklers Lamination / Pipe Pack - 5 Pcs",
+    "slug": "55cm-electric-sparklers-lamination-pipe-pack-5-pcs",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 255.0,
+    "unit": "Pack",
+    "image": "/assets/products/55cm-electric-sparklers-lamination-pipe-pack-5-pcs.webp",
+    "isGiftBox": false,
+    "sortOrder": 254
+  },
+  {
+    "name": "75 cm Electric Sparklers - 5 Pcs",
+    "slug": "75-cm-electric-sparklers-5-pcs",
+    "categories": [
+      "sparklers"
+    ],
+    "price": 315.0,
+    "unit": "Pack",
+    "image": "",
+    "isGiftBox": false,
+    "sortOrder": 255
+  },
+  {
+    "name": "Candy Pop Match Sticks (5 in 1)",
+    "slug": "candy-pop-match-sticks-5-in-1",
+    "categories": [
+      "color-match-sticks"
+    ],
+    "price": 200.0,
+    "unit": "Set",
+    "image": "/assets/products/candy-pop-match-sticks-5-in-1.webp",
+    "isGiftBox": false,
+    "sortOrder": 256
+  },
+  {
+    "name": "Twister Laptop Model (10 in 1)",
+    "slug": "twister-laptop-model-10-in-1",
+    "categories": [
+      "color-match-sticks"
+    ],
+    "price": 220.0,
+    "unit": "Set",
+    "image": "/assets/products/twister-laptop-model-10-in-1.webp",
+    "isGiftBox": false,
+    "sortOrder": 257
+  },
+  {
+    "name": "Ring Cap Paper Pouch (1 Bundle / 10 Packs)",
+    "slug": "ring-cap-paper-pouch-1-bundle-10-packs",
+    "categories": [
+      "ring-caps-and-guns"
+    ],
+    "price": 135.0,
+    "unit": "Bundle",
+    "image": "/assets/products/ring-cap-paper-pouch-1-bundle-10-packs.webp",
+    "isGiftBox": false,
+    "sortOrder": 258
+  },
+  {
+    "name": "Ring Cap Gun Transparent",
+    "slug": "ring-cap-gun-transparent",
+    "categories": [
+      "ring-caps-and-guns"
+    ],
+    "price": 120.0,
+    "unit": "Piece",
+    "image": "/assets/products/ring-cap-gun-transparent.webp",
+    "isGiftBox": false,
+    "sortOrder": 259
+  },
+  {
+    "name": "Ring cap Gun Colour Medium",
+    "slug": "ring-cap-gun-colour-medium",
+    "categories": [
+      "ring-caps-and-guns"
+    ],
+    "price": 135.0,
+    "unit": "Piece",
+    "image": "/assets/products/ring-cap-gun-transparent.webp",
+    "isGiftBox": false,
+    "sortOrder": 260
+  },
+  {
+    "name": "Ring Cap Gun AK 47 Type",
+    "slug": "ring-cap-gun-ak-47-type",
+    "categories": [
+      "ring-caps-and-guns"
+    ],
+    "price": 330.0,
+    "unit": "Piece",
+    "image": "/assets/products/ring-cap-gun-ak-47-type.webp",
+    "isGiftBox": false,
+    "sortOrder": 261
+  },
+  {
+    "name": "30 Items Gift Set",
+    "slug": "30-items-gift-set",
+    "categories": [
+      "gift-boxes"
+    ],
+    "price": 700.0,
+    "unit": "Set",
+    "image": "/assets/products/30-items-gift-set.webp",
+    "isGiftBox": true,
+    "sortOrder": 262
+  },
+  {
+    "name": "40 Items Gift Set",
+    "slug": "40-items-gift-set",
+    "categories": [
+      "gift-boxes"
+    ],
+    "price": 850.0,
+    "unit": "Set",
+    "image": "/assets/products/40-items-gift-set.webp",
+    "isGiftBox": true,
+    "sortOrder": 263
+  },
+  {
+    "name": "50 Items Gift Set",
+    "slug": "50-items-gift-set",
+    "categories": [
+      "gift-boxes"
+    ],
+    "price": 1200.0,
+    "unit": "Set",
+    "image": "/assets/products/50-items-gift-set.webp",
+    "isGiftBox": true,
+    "sortOrder": 264
+  },
+  {
+    "name": "60 Items Gift Set",
+    "slug": "60-items-gift-set",
+    "categories": [
+      "gift-boxes"
+    ],
+    "price": 1650.0,
+    "unit": "Set",
+    "image": "/assets/products/60-items-gift-set.webp",
+    "isGiftBox": true,
+    "sortOrder": 265
+  }
+]

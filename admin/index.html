@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Admin – Crackers Shop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rozha+One&family=Hind:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/css/admin.css">
+</head>
+<body>
+<section id="login" hidden>
+  <form id="login-form" class="card login-card" autocomplete="on">
+    <h1>Shop Admin</h1>
+    <p class="muted">Sign in to manage enquiries and products</p>
+    <label>Username<input name="username" autocomplete="username" required autofocus></label>
+    <label>Password<input name="password" type="password" autocomplete="current-password" required></label>
+    <p id="login-err" class="err" hidden></p>
+    <button class="btn primary block" type="submit">Sign in</button>
+  </form>
+</section>
+
+<div id="app" hidden>
+  <aside id="side">
+    <div class="brand">🪔 <span>Shop Admin</span></div>
+    <nav>
+      <a href="#/dashboard" data-nav="dashboard">📊 <span>Dashboard</span></a>
+      <a href="#/leads" data-nav="leads">📋 <span>Leads</span></a>
+      <a href="#/products" data-nav="products">🎆 <span>Products</span></a>
+    </nav>
+    <div class="side-foot">
+      <a href="/" target="_blank" rel="noopener">View shop ↗</a>
+      <div id="who" class="muted"></div>
+      <button id="logout" class="btn ghost block">Log out</button>
+    </div>
+  </aside>
+  <main id="view"></main>
+</div>
+<div id="toasts"></div>
+<script src="/admin/js/app.js"></script>
+</body>
+</html>
