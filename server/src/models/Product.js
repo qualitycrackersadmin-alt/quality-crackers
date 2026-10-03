@@ -13,6 +13,7 @@ const productSchema = new Schema(
     isFeatured: { type: Boolean, default: false },
     isGiftBox: { type: Boolean, default: false },
     sortOrder: { type: Number, default: 0 },
+    sno: { type: String, default: '', trim: true }, // S.No from the Excel price list (hidden on the site)
   },
   { timestamps: true }
 );

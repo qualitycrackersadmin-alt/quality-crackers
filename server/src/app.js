@@ -72,6 +72,7 @@ function startSelfPing() {
 
 async function start() {
   await connectDB();
+  await require('./utils/applySno')().catch((e) => console.error('S.No sync skipped:', e.message));
   app.listen(port, () => {
     console.log(`Server running on http://localhost:${port}`);
     startSelfPing();

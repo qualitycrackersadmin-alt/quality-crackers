@@ -104,6 +104,7 @@ async function main() {
             image: p.image,
             isGiftBox: p.isGiftBox,
             sortOrder: p.sortOrder,
+            ...(p.sno ? { sno: p.sno } : {}),
           },
           $setOnInsert: { isActive: true, isFeatured: false },
         },

@@ -32,14 +32,14 @@ router.post(
     const qtyById = new Map();
     for (const i of items) qtyById.set(i.product, (qtyById.get(i.product) || 0) + i.qty);
 
-    const products = await Product.find({ _id: { $in: [...qtyById.keys()] }, isActive: true }).select('name unit price').lean();
+    const products = await Product.find({ _id: { $in: [...qtyById.keys()] }, isActive: true }).select('name unit price sno').lean();
     const byId = new Map(products.map((p) => [String(p._id), p]));
 
     const lines = [];
     for (const [id, qty] of qtyById) {
       const p = byId.get(id);
       if (!p) return res.status(400).json({ error: 'Some items are no longer available. Please refresh the page.' });
-      lines.push({ product: p._id, name: p.name, unit: p.unit, price: p.price, qty });
+      lines.push({ product: p._id, sno: p.sno || '', name: p.name, unit: p.unit, price: p.price, qty });
     }
 
     const lead = await Lead.create({ customer, items: lines });

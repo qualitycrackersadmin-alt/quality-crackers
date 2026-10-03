@@ -24,7 +24,7 @@ router.get(
 
     const products = await Product.find(filter)
       .sort({ sortOrder: 1, name: 1 })
-      .select('name slug categories price unit image isGiftBox isFeatured isActive')
+      .select('name slug categories price unit image isGiftBox isFeatured isActive sno')
       .lean();
     res.set('Cache-Control', 'no-cache');
     res.json(products);

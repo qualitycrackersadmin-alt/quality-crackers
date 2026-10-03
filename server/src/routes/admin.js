@@ -97,7 +97,7 @@ router.get(
         l.customer.phone,
         l.customer.email,
         l.customer.city,
-        l.items.map((i) => `${i.name} x ${i.qty} ${i.unit || ''}`.trim()).join('; '),
+        l.items.map((i) => `${i.sno ? '#' + i.sno + ' ' : ''}${i.name} x ${i.qty} ${i.unit || ''}`.trim()).join('; '),
         l.total,
         l.notes,
       ].map(cell).join(',')

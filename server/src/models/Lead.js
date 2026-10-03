@@ -5,6 +5,7 @@ const { Schema, model } = require('mongoose');
 const itemSchema = new Schema(
   {
     product: { type: Schema.Types.ObjectId, ref: 'Product' },
+    sno: { type: String, trim: true }, // Excel S.No of the product at the time of the enquiry
     name: { type: String, required: true, trim: true },
     unit: { type: String, trim: true },
     price: { type: Number, required: true, min: 0 },
