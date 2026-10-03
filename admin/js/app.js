@@ -149,7 +149,7 @@ function leadModal(l, reload) {
       h('dt', {}, 'Received'), h('dd', {}, when(l.createdAt))),
     h('div', { class: 'card tw', style: 'box-shadow:none;margin-bottom:12px' }, h('table', {},
       h('thead', {}, h('tr', {}, h('th', {}, 'Item'), h('th', { class: 'num' }, 'Qty'), h('th', { class: 'num' }, 'Amount'))),
-      h('tbody', {}, l.items.map((i) => h('tr', {}, h('td', {}, i.name, h('div', { class: 'muted small' }, inr(i.price) + ' / ' + (i.unit || 'unit'))), h('td', { class: 'num' }, i.qty), h('td', { class: 'num' }, inr(i.price * i.qty)))),
+      h('tbody', {}, l.items.map((i) => h('tr', {}, h('td', {}, i.name, h('div', { class: 'muted small' }, (i.sno ? 'S.No ' + i.sno + ' · ' : '') + inr(i.price) + ' / ' + (i.unit || 'unit'))), h('td', { class: 'num' }, i.qty), h('td', { class: 'num' }, inr(i.price * i.qty)))),
         h('tr', {}, h('td', {}, h('b', {}, 'Total')), h('td'), h('td', { class: 'num' }, h('b', {}, inr(l.total))))))),
     h('label', {}, 'Status', st), h('label', {}, 'Notes', notes),
     h('div', { class: 'row' },

@@ -40,9 +40,13 @@ document.addEventListener('DOMContentLoaded', async () => {
   // prefill details from last time on this device
   try { const c = JSON.parse(localStorage.getItem(CUST)); if (c) for (const k of ['name', 'phone', 'email', 'city']) if (c[k]) $('form')[k].value = c[k]; } catch (e) {}
 
+  // S.No of each product (not shown on the site, only added to the WhatsApp message)
+  const snoById = {};
+  const snoReady = App.products().then((ps) => ps.forEach((p) => (snoById[p._id] = p.sno))).catch(() => {});
+
   const message = (c, items, total, ref) =>
     `Hello ${cfg.shopName}, I would like to order these crackers${ref ? ` (Ref #${ref})` : ''}:\n\n` +
-    items.map((i, n) => `${n + 1}. ${i.name} - ${i.qty} ${i.unit || 'Box'} x ${money(i.price)} = ${money(i.qty * i.price)}`).join('\n') +
+    items.map((i, n) => `${n + 1}. ${snoById[i.id] ? `[S.No ${snoById[i.id]}] ` : ''}${i.name} - ${i.qty} ${i.unit || 'Box'} x ${money(i.price)} = ${money(i.qty * i.price)}`).join('\n') +
     `\n\nTotal: ${money(total)}\n\nName: ${c.name}\nPhone: ${c.phone}\nEmail: ${c.email}${c.city ? '\nCity: ' + c.city : ''}`;
   const waLink = (c, items, total, ref) => `https://wa.me/${App.waNumber(cfg.whatsappNumber)}?text=${encodeURIComponent(message(c, items, total, ref))}`;
 
@@ -61,6 +65,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     try {
       const res = await App.api('/leads', { method: 'POST', body: JSON.stringify({ customer: c, items: items.map((i) => ({ product: i.id, qty: i.qty })) }) });
       try { localStorage.setItem(CUST, JSON.stringify(c)); } catch (x) {}
+      await snoReady;
       const url = waLink(c, items, total, res.ref);
       App.cart.clear();
       $('filled').hidden = true; $('empty').hidden = true; $('done').hidden = false;
